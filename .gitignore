@@ -17,6 +17,9 @@
 
 # misc
 .DS_Store
+
+# misc
+.DS_Store
 *.pem
 
 # debug
@@ -36,3 +39,6 @@ yarn-error.log*
 # swervice worker
 public/sw.js
 public/workbox-*.js
+
+# storybook
+storybook-static
